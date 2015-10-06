@@ -6,10 +6,10 @@ setup(
     name='django-append-url-to-sql',
     description="Appends the request URL to SQL statements in Django.",
     version="0.1",
-    url='http://code.playfire.com/django-append-url-to-sql',
+    url='https://chris-lamb.co.uk/projects/django-append-url-to-sql',
 
-    author='Playfire.com',
-    author_email='tech@playfire.com',
+    author='Chris Lamb',
+    author_email='chris@chris-lamb.co.uk',
     license='BSD',
 
     packages=find_packages(),
